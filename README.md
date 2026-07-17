@@ -54,11 +54,19 @@ The dataset contains Adidas sales information including:
 ---
 ## Project Structure
 ```
-Dashboard/
-Dataset/
-Images/
-Documentation/
-README.md
+Adidas-Sales-Analysis-Power-Bi/
+│
+├── Dashboard/
+│   └── Adidas_Sales_Analysis.pbix
+│
+├── Dataset/
+│   └── Adidas_US_Sales_Datasets.xlsx
+│
+├── Images/
+│   └── dashboard-overview.png
+│
+└── README.md
+
 ```
 ---
 ## Insights
