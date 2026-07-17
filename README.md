@@ -4,7 +4,8 @@ This project presents an interactive Power BI dashboard built using Adidas sales
 ---
 ## Dashboard Preview
 > Add your dashboard screenshot here.
-dashboard-overview.png
+![Dashboard](dashboard-overview.png)
+
 
 
 ---
